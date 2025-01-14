@@ -1,6 +1,6 @@
 <h1> Sydney Weisse </h1>
 <h2> Data Analytics Student </h2> 
-<h5> Contact Information
+<h5> <ins> Contact Information </ins>
 <br/> Western Technical College 
 <br/> weisses@students.westerntc.edu </h5>
 
