@@ -1,12 +1,12 @@
-<h2> Data Analytics Student </h2> 
-
 **About Me**
 
 -34 years old<br>
 -Residing in LaCrosse, WI<br>
 -Teacher for 10 years<br>
--Currently in school and working full time at Menards
+-In school for Data Analytics Associates Degree<br>
+-Working full time at Menards as an Assistant Manager
 
+---
 
 **Education**
 
@@ -18,7 +18,24 @@ Western Technical College
 > Associates Degree: Data Analytics Specialist<br>
 > Graduation: April 2026
 
+---
+
 **Contact Information**
 
 Phone: 920-268-2654<br>
 Email: sydneyweisse@gmail.com
+
+---
+
+[Mission Statement][]
+
+[Strengths][]
+
+[Goals][]
+
+---
+
+## **Data Analytics Program Classes**
+
+[Introduction to Data Analytics][]<br>
+[Data Modeling][]
