@@ -27,15 +27,15 @@ Email: sydneyweisse@gmail.com
 
 ---
 
-[Mission Statement][]
+[Mission Statement]()
 
-[Strengths][]
+[Strengths]()
 
-[Goals][]
+[Goals]()
 
 ---
 
 ## **Data Analytics Program Classes**
 
-[Introduction to Data Analytics][]<br>
-[Data Modeling][]
+[Introduction to Data Analytics](https://github.com/weisses1/weisses1.github.io/tree/main/Introduction%20to%20Data%20Analytics)<br>
+[Data Modeling](https://github.com/weisses1/weisses1.github.io/blob/main/Data%20Modeling/DM.md)
