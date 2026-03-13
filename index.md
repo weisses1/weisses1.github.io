@@ -10,13 +10,13 @@
 
 **Education**
 
-UW- La Crosse
-> Bachelors Degree: Early Childhood Education<br>
-> Graduation: August 2013
-
 Western Technical College
 > Associates Degree: Data Analytics Specialist<br>
 > Graduation: April 2026
+
+UW- La Crosse
+> Bachelors Degree: Early Childhood Education<br>
+> Graduation: August 2013
 
 ---
 
