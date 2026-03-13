@@ -20,18 +20,18 @@ UW- La Crosse
 
 ---
 
-**Employment History**
+**Recent Employment History**
 
 Menards
-> September 2025 - present<br>
+> September 2024 - present<br>
 > Cashier, Service Desk, Cabinets and Appliances Team Member, 2nd Assistant Receiving Manager 
 
 Green Bay Public Area Schools
-> August 2023 - June 2025 <br>
+> August 2022 - June 2024 <br>
 > Head Start Teacher
 
 West De Pere School District
-> August 2018 - June 2023 <br>
+> August 2018 - June 2022 <br>
 > 4K Teacher, Summer School Teacher, Substitute Teacher
 
 ---
