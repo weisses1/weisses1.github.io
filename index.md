@@ -37,5 +37,5 @@ Email: sydneyweisse@gmail.com
 
 ## **Data Analytics Program Classes**
 
-[Introduction to Data Analytics](https://weisses1.github.io/introda.html)<br>
+[Introduction to Data Analytics](https://weisses1.github.io/Introduction%20to%20Data%20Analytics/introda.html)<br>
 [Data Modeling](https://weisses1.github.io/Data%20Modeling/DM.html)<br>
