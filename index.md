@@ -1,7 +1,6 @@
 **About Me**
 
--34 years old<br>
--Residing in LaCrosse, WI<br>
+-Resides in LaCrosse, WI<br>
 -Teacher for 10 years<br>
 -In school for Data Analytics Associates Degree<br>
 -Working full time at Menards as an Assistant Manager
@@ -55,3 +54,10 @@ Email: sydneyweisse@gmail.com
 
 [Introduction to Data Analytics](https://weisses1.github.io/Introduction%20to%20Data%20Analytics/introda.html)<br>
 [Data Modeling](https://weisses1.github.io/Data%20Modeling/DM.html)<br>
+[Power BI]<br>
+[Data Visualization and Reporting]<br>
+[Python Programming]<br>
+[Buisness Applications for AI]<br>
+[Predictive Analytics]<br>
+[Big Data]<br>
+[Decision Optimization & Simula]
