@@ -54,10 +54,10 @@ Email: sydneyweisse@gmail.com
 
 [Introduction to Data Analytics](https://weisses1.github.io/Introduction%20to%20Data%20Analytics/introda.html)<br>
 [Data Modeling](https://weisses1.github.io/Data%20Modeling/DM.html)<br>
-[Power BI]<br>
-[Data Visualization and Reporting]<br>
-[Python Programming]<br>
-[Buisness Applications for AI]<br>
-[Predictive Analytics]<br>
-[Big Data]<br>
-[Decision Optimization & Simula]
+[Power BI](https://weisses1.github.io/Power%20BI/PBI.html)<br>
+[Data Visualization and Reporting](https://weisses1.github.io/Data%20Visualization%20and%20Reporting/DataViz.html)<br>
+[Python Programming](https://weisses1.github.io/Python%20Programming/Python.html)<br>
+[Business Applications for AI](https://weisses1.github.io/Business%20Applications%20for%20AI/AI.html)<br>
+[Predictive Analytics](https://weisses1.github.io/Predictive%20Analytics/pred.html)<br>
+[Big Data](https://weisses1.github.io/Big%20Data/bigdata.html)<br>
+[Decision Optimization & Simula](https://weisses1.github.io/Decision%20Optimization%20%26%20Simula/DOS.html)
