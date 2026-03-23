@@ -42,7 +42,7 @@ Email: sydneyweisse@gmail.com
 
 ---
 
-[Mission Statement]()
+[Mission Statement](https://weisses1.github.io/missionstatement/ms.html)
 
 [Strengths]()
 
