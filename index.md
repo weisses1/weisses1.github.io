@@ -56,6 +56,8 @@ Email: sydneyweisse@gmail.com
 [Data Modeling](https://weisses1.github.io/Data%20Modeling/DM.html)<br>
 [Power BI](https://weisses1.github.io/Power%20BI/PBI.html)<br>
 [Data Visualization and Reporting](https://weisses1.github.io/Data%20Visualization%20and%20Reporting/DataViz.html)<br>
+[Business Analyst Planning and Monitoring]()<br>
+[Data Governance and Ethics]()<br>
 [Python Programming](https://weisses1.github.io/Python%20Programming/Python.html)<br>
 [Business Applications for AI](https://weisses1.github.io/Business%20Applications%20for%20AI/AI.html)<br>
 [Predictive Analytics](https://weisses1.github.io/Predictive%20Analytics/pred.html)<br>
