@@ -44,7 +44,7 @@ Email: sydneyweisse@gmail.com
 
 [Mission Statement](https://weisses1.github.io/ms.html)
 
-[Strengths]()
+[Strengths](https://weisses1.github.io/strengths.html)
 
 [Goals](https://weisses1.github.io/goals.html)
 
