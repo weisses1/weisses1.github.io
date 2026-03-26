@@ -46,7 +46,7 @@ Email: sydneyweisse@gmail.com
 
 [Strengths]()
 
-[Goals]()
+[Goals](https://weisses1.github.io/goals.html)
 
 ---
 
