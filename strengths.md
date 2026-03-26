@@ -1,4 +1,4 @@
-##September 2024 Clifton Strengths by Gallup Results
+## September 2024 Clifton Strengths by Gallup Results
 
 1. Analytical<br>
 >You search for reasons and causes. You have the ability to think about all of the factors that might affect a situation.
