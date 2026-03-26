@@ -1,18 +1,18 @@
 September 2024 Clifton Strengths by Gallup Results
 
-1. Analytical
+1. Analytical<br>
 You search for reasons and causes. You have the ability to think about all of the factors that might affect a situation.
 
-2. Context
+2. Context<br>
 You enjoy thinking about the past. You understand the present by researching its history.
 
-3. Relator
+3. Relator<br>
 You enjoy close relationships with others. You find deep satisfaction in working hard with friends to achieve a goal.
 
-4. Developer
+4. Developer<br>
 You recognize and cultivate the potential in others. You spot the signs of each small improvement and derive satisfaction from evidence of progress.
 
-5. Positivity
+5. Positivity<br>
 You have contagious enthusiasm. You are upbeat and can get others excited about what they are going to do.
 
 This was taken my first semester of the program when I was recently out of teaching and after a big move.
