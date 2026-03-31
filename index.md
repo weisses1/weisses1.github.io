@@ -1,4 +1,4 @@
-**About Me**
+## **About Me**
 
 -Resides in LaCrosse, WI<br>
 -Teacher for 10 years<br>
@@ -7,7 +7,7 @@
 
 ---
 
-**Education**
+## **Education**
 
 Western Technical College
 > Associates Degree: Data Analytics Specialist<br>
@@ -19,7 +19,7 @@ UW- La Crosse
 
 ---
 
-**Recent Employment History**
+## **Recent Employment History**
 
 Menards
 > September 2024 - present<br>
@@ -35,12 +35,13 @@ West De Pere School District
 
 ---
 
-**Contact Information**
+## **Contact Information**
 
 Phone: 920-268-2654<br>
 Email: sydneyweisse@gmail.com
 
 ---
+## **More Information**
 
 [Mission Statement](https://weisses1.github.io/ms.html)
 
