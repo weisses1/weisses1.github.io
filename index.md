@@ -33,6 +33,9 @@ West De Pere School District
 > August 2018 - June 2022 <br>
 > 4K Teacher, Summer School Teacher, Substitute Teacher
 
+
+[Link to Full Resume](https://weisses1.github.io/resume.html)
+
 ---
 
 ## **Contact Information**
