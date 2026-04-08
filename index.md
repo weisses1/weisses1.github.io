@@ -34,7 +34,7 @@ West De Pere School District
 > 4K Teacher, Summer School Teacher, Substitute Teacher
 
 
-[Link to Full Resume](https://weisses1.github.io/resume.html)
+[Link to Full Resume](SydneyWeisseResume.pdf)
 
 ---
 
