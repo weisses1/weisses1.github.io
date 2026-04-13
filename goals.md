@@ -1,10 +1,10 @@
 ## Goals
 
 ### Work Goals
-> Strengthen Skills
-> Increase Reliability
-> Communicate Effectively
-> Build Relationships
+> Strengthen Skills<br>
+> Increase Reliability<br>
+> Communicate Effectively<br>
+> Build Relationships<br>
 > Become a Leader
 
 ### Personal Goals
