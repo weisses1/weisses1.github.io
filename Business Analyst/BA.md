@@ -1,4 +1,4 @@
-## Business Analysis Planning and Monitoring
+## Business Analyst Planning and Monitoring
 
 #### Course Description:
 >The BA Planning and Monitoring course includes instruction in the multiple approaches used for performing business
