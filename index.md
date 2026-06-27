@@ -2,9 +2,9 @@
 
 ## **About Me**
 
--Resides in LaCrosse, WI<br>
--Teacher for 10 years<br>
--Full time at Menards as an Assistant Manager
+-LaCrosse, WI<br>
+-Menards Assistant Manager<br>
+-Former Teacher
 
 ---
 
