@@ -4,8 +4,7 @@
 
 -Resides in LaCrosse, WI<br>
 -Teacher for 10 years<br>
--In school for Data Analytics Associates Degree<br>
--Working full time at Menards as an Assistant Manager
+-Full time at Menards as an Assistant Manager
 
 ---
 
@@ -27,7 +26,7 @@ Menards
 > September 2024 - present<br>
 > Cashier, Service Desk, Cabinets and Appliances Team Member, 2nd Assistant Receiving Manager 
 
-Green Bay Public Area Schools
+Green Bay Area Public Schools
 > August 2022 - June 2024 <br>
 > Head Start Teacher
 
