@@ -3,7 +3,7 @@
 ## **About Me**
 
 -LaCrosse, WI<br>
--Menards Assistant Manager<br>
+-Menards Assistant Department Manager<br>
 -Former Teacher
 
 ---
